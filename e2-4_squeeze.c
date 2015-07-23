@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-void squeeze(char s1[], s2[])
+void squeeze(char s1[], char s2[])
 {
     int i, j;
     i = 0;
